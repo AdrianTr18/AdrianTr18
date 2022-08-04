@@ -2,7 +2,7 @@
 <h3 align="center">A student with a passion for systems development</h3>
 
 
-<p align="center"><a  href="https://giphy.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97545560/149238454-93b5c750-cae9-4f5c-b305-bf3f96dc5194.gif" alt="Gif" width="500" height="500"/>
+<p align="center"><a  href="https://giphy.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/ZvjPhv8nMveIRflJ9e/giphy.gif" alt="Gif" width="500" height="500"/>
 </a>
 </p>
 
