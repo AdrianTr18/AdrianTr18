@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adrian</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCKFzcasrR4ia7z/giphy.gif" width="35">, I'm Adrian</h1>
 <h3 align="center">A student with a passion for systems development</h3>
 
 
