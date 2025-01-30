@@ -1,13 +1,29 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Adrian</h1>
-<h3 align="center">A student with a passion for systems development</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Adrian Alvarez</h1>
 
 
-<p align="center"><a  href="Your heart <3" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/wb0HOi1fGNBfxxQjVb/giphy.gif" alt="Adrian Hello Gif" width="500" height="500"/>
-</a>
-</p>
+   </br>
+   </br>
 
-<h3 align="left">Languages I'm learning:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="90" height="90"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="90" height="90"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="90" height="90"/> </a> </p>
+ <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=A+student+with+a+passion+for+systems+development+&color=FFFFFF&font=Fira%20Code&center=true&width=700&height=50" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=A+student+with+a+passion+for+systems+development+&color=FFFFFF&font=Fira%20Code&center=true&width=700&height=50" />
+  </picture>
+ </p>
+
+ ## <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="25px">&nbsp;***About me***
+
+I am a computer engineering student, currently i am about to finish my degree. I am expanding my knowledge in both front-end and back-end development and cybersecurity. I love learning and building something new, productive and innovative.
+
+<img align="right" src="https://media.giphy.com/media/wb0HOi1fGNBfxxQjVb/giphy.gif" width="200" height="200">
+
+* **I am interested in Cibersecurity and Web development**
+- 🌱 I’m currently learning ...
+  - Angular
+- 👯 I’m looking forward to collaborate on open source projects.<br>
+- Outside tech, 📖 I love to read, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="adriantramarria@gmail.com">adriantramarria@gmail.com</a>
+
 <!---
 AdrianTr18/AdrianTr18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
